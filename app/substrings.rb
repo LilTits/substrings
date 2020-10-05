@@ -2,5 +2,9 @@
 
 # Implementation of substrings
 class Substrings
-  'hello world'
+  dictionary = ["below","down","go","going","horn","how","howdy","it","i","low","own","part","partner","sit"]
+  def substrings(word, dictionary)
+    puts word
+    puts dictionary
+  end
 end
